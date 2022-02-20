@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 '''
 Code largely taken from the freeCodeCamp advanced computer vision thingy on YouTube
 the one published on 27 May 2021 - https://www.youtube.com/watch?v=01sAkU_NvOY
